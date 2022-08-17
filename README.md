@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Shane.
+
+- 🔭 I work as a Senior DevOps Engineer at [Carted](https://carted.com).
+- 🌱 I’m currently learning Golang, and loving it!
+- 👀 My personal projects can be found on [GitLab](https://gitlab.com/shanehull) or my [Website](https://shanehull.com).
+- 📫 How to reach me: [Contact Page](https://shanehull.com/contact).
+- 😄 Pronouns: He/His/Him.
 
 <!--
 **shanehull/shanehull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

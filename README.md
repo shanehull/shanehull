@@ -3,8 +3,6 @@
 - 🔭 I work as a Senior DevOps Engineer at [Carted](https://carted.com).
 - 🔨 My hammer of choice is Go.
 - 📈 I enjoy learning about finance, markets, human psychology and other sources of randomness.
-- 👀 My personal projects can be found on [GitLab](https://gitlab.com/shanehull) or my [Website](https://shanehull.com).
-- 📫 How to reach me: [Contact Page](https://shanehull.com/contact).
 - 😄 Pronouns: He/His/Him.
 - ⚡ Fun fact: %99.99 of statistics are made up, embellished, or exaggerated. This one included!
 

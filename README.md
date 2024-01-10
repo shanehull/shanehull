@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shane.
 
-- 🔭 I work as a Senior DevOps Engineer at [Carted](https://carted.com).
+- 🔭 I work as a Senior DevOps Engineer at [annalise.ai](https://annalise.ai).
 - 🔨 My hammer of choice is Go.
 - 📈 I enjoy learning about finance, markets, human psychology and other sources of randomness.
 - 😄 Pronouns: He/His/Him.

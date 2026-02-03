@@ -1,6 +1,6 @@
 ### Hi 👋,
 
-I am an Engineer with 8+ years of experience across DevOps, Systems and Cloud with a focus on Kubernetes and the Cloud-Native ecosystem.
+I am an Engineer with a decade of experience across DevOps, Systems and Cloud with a focus on Kubernetes and the Cloud-Native ecosystem.
 
 Go is my hammer of choice, and all problems thus far look like a nail (okay, I joke).
 

@@ -1,22 +1,22 @@
-### Hi 👋,
-
-I am an Engineer with a decade of experience across DevOps, Systems and Cloud with a focus on Kubernetes and the Cloud-Native ecosystem.
-
-I'm a bottom-up thinker, dabbler and tinkerer.
-
-You can find me on <a href="https://www.linkedin.com/in/shanehull0" target="_blank">LinkedIn</a> or <a href="https://twitter.com/shed_one" target="_blank">X</a>.
-
-<!--
-**shanehull/shanehull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+╭──────────────────────────────────────────────────────────────────╮
+│                                                                  │
+│                          SHANEHULL                               │
+│                                                                  │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  [ID]        shanehull                                           │
+│                                                                  │
+│  [CLASS]     Engineer · DevOps · Cloud · Systems                 │
+│  [LANG]      Go                                                  │
+│  [STACK]     Kubernetes & Cloud-Native Ecosystem                 │
+│  [RUNTIME]   10YR                                                │
+│                                                                  │
+│  [MODE]      Bottom-up thinker · Dabbler · Tinkerer              │
+│                                                                  │
+│  [SITE]      shanehull.com                                       │
+│  [LINK]      linkedin.com/in/shanehull0                          │
+│  [LINK]      x.com/shed_one                                      │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
+```

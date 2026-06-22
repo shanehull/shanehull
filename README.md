@@ -1,22 +1,26 @@
+<!-- shanehull/shanehull · profile README · gruvbox -->
+
 ```
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│                          SHANEHULL                               │
-│                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  [ID]        shanehull                                           │
-│                                                                  │
-│  [CLASS]     Engineer · DevOps · Cloud · Systems                 │
-│  [LANG]      Go                                                  │
-│  [STACK]     Kubernetes & Cloud-Native Ecosystem                 │
-│  [RUNTIME]   10YR                                                │
-│                                                                  │
-│  [MODE]      Bottom-up thinker · Dabbler · Tinkerer              │
-│                                                                  │
-│  [SITE]      shanehull.com                                       │
-│  [LINK]      linkedin.com/in/shanehull0                          │
-│  [LINK]      x.com/shed_one                                      │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+███████╗██╗  ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗██╗     ██╗     
+██╔════╝██║  ██║██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║██║     ██║     
+███████╗███████║███████║██╔██╗ ██║█████╗  ███████║██║   ██║██║     ██║     
+╚════██║██╔══██║██╔══██║██║╚██╗██║██╔══╝  ██╔══██║██║   ██║██║     ██║     
+███████║██║  ██║██║  ██║██║ ╚████║███████╗██║  ██║╚██████╔╝███████╗███████╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
+
+$ whoami
+
+╭────────────────────────────────────────────────────────╮
+│ shanehull@github : ~/whoami                            │
+├────────────────────────────────────────────────────────┤
+│  user    shanehull                                     │
+│  role    Engineer · DevOps · Cloud · Systems           │
+│  lang    Go                                            │
+│  stack   Kubernetes & Cloud-Native ecosystem           │
+│  uptime  10 years                                      │
+│  mode    bottom-up thinker · dabbler · tinkerer        │
+│                                                        │
+│  site    shanehull.com                                 │
+│  social  in/shanehull0  ·  x.com/shed_one              │
+╰────────────────────────────────────────────────────────╯
 ```
